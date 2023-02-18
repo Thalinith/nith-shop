@@ -1,0 +1,2 @@
+Marketing.bindDependencyDOMParsed(function(){var Bootstrapper=window["Marketing"];var ensightenOptions=Marketing.ensightenOptions;try{Marketing.UDO.perfTimingStart("ruleId-"+this.id+"-deploymentId-"+this.deploymentId);Marketing.UDO.idleQueue.pushTask(function(){Marketing.insertScript("//d2qmp7jjpd79k7.cloudfront.net/pixel/755/1639409650528/script.js")});Marketing.UDO.perfTimingEnd("ruleId-"+this.id+"-deploymentId-"+this.deploymentId)}catch(e){dell_marketing_util.debug(e)}},3777704,[3774765],706205,
+[726811]);

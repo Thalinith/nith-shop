@@ -1,0 +1,2 @@
+Marketing.bindDependencyDOMParsed(function(){var Bootstrapper=window["Marketing"];var ensightenOptions=Marketing.ensightenOptions;try{Marketing.UDO.perfTimingStart("ruleId-"+this.id+"-deploymentId-"+this.deploymentId);var marketingUDO=Marketing.UDO;var marketingscDataObj=Marketing.scDataObj;if(marketingUDO.promoid!="100")Marketing.imageRequest("//sp.analytics.yahoo.com/spp.pl?a\x3d10000\x26.yp\x3d10017017");Marketing.UDO.perfTimingEnd("ruleId-"+this.id+"-deploymentId-"+this.deploymentId)}catch(e){dell_marketing_util.debug(e)}},
+3829896,[3815478],735248,[726737]);
